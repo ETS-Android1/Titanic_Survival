@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Titanic Survival</string>
+    <string name="textView">
+        Imagine you are on Titanic! \n And the biggest disaster is to happen.\n So predict your chances of survival.
+    </string>
+    <string name="book_your_ticket">Book Your Ticket</string>
+    <string name="ticket_class">Ticket Class</string>
+    <string name="_1st">1st</string>
+    <string name="_2nd">2nd</string>
+</resources>
