@@ -1,13 +1,20 @@
-# Titanic_Survival
 
+<p align="center">
+  <img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Title.png" />
+</p>
 
-### Basic Description
+# Titanic Survival
+
+## Basic Description
 Titanic_Survival is an android-ML project based on the kaggle titanic dataset. The user can make the predictions about his/her survival if he/she was present on the ship.
 
-### Screenshots
 
 
-### About the Project
+## Screenshots
+
+
+
+## About the Project
 This project includes two phases.
 
 **1. Model Building and creating Flask API**
