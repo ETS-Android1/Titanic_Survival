@@ -16,7 +16,7 @@ Titanic_Survival is an android-ML project based on the [Kaggle Titanic Dataset](
 
 ## Screenshots
 <p align="center">
- <img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(30).png"  hspace=30 width="250"><img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(31).png"  hspace=30 width="250"><img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(32).png"  hspace=30 vspace=20 width="250"><img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(33).png"  hspace=30 width="250"><img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(34).png"  hspace=30 width="250">
+ <img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(30).png"  hspace=20 width="210"><img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(31).png"  hspace=20 width="210"><img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(32).png"  hspace=20 vspace=10 width="210"><img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(33).png"  hspace=20 width="210"><img src="https://github.com/AbhishekKandalkar123/Titanic_Survival/blob/master/Img/Screenshot%20(34).png"  hspace=20 width="210">
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
